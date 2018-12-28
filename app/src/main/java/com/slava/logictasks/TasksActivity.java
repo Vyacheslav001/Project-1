@@ -3,11 +3,14 @@ package com.slava.logictasks;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-public class StartActivity extends AppCompatActivity {
+public class TasksActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_start);
+        setContentView(R.layout.activity_tasks);
     }
+
+
+
 }

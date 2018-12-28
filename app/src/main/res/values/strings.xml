@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">LogicTasks</string>
+    <string name="app_name_rus">Догадалка</string>
+    <string name="text_brains">Разомни мозги!</string>
+    <string name="buttonStart">СТАРТ</string>
+    <string name="buttonAssessment">ОЦЕНИТЬ</string>
+    <string name="buttonWrite">НАПИСАТЬ НАМ</string>
+    <string name="buttonRemoveAd">УБРАТЬ РЕКЛАМУ</string>
+    <string name="buttonLevel1">РАЗМИНКА</string>
+    <string name="buttonLevel2">ПРИДЕТСЯ ПОДУМАТЬ</string>
+    <string name="buttonLevel3">НАПРЯГИ ИЗВИЛИНЫ</string>
+    <string name="buttonLevel4">САМЫЙ УМНЫЙ</string>
+    <string name="buttonLevel5">МЕГАМОЗГ</string>
+    <string name="score">Счет:</string>
+    <string name="task1">1</string>
 </resources>
